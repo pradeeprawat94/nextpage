@@ -5,7 +5,7 @@ export const addTocart =()=>{
     return function(dispatch){
         dispatch({
             action:actions.ADD_TO_CART,
-            payload:10
+            payload:1
         })
     }
 

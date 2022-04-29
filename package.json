@@ -1,6 +1,6 @@
 {
+  "homepage": "http://pradeeprawat94.github.io/nextpage",
   "name": "nextpage",
-  "homepage":"http://pradeeprawat94.github.io/nextpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,8 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d bulid",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d bulid",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
